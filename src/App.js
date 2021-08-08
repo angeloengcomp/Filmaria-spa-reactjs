@@ -1,19 +1,20 @@
-import styled from 'styled-components';
+import styled from "styled-components";
+import { ToastContainer } from "react-toastify";
+import 'react-toastify/dist/ReactToastify.css'
 
-import './styles.css'
-import Routes from './routes.js'
+import "./styles.css";
+import Routes from "./routes.js";
 
 const AppContainer = styled.div`
-background:#141926;
-`
-
-
-
+  
+  
+`;
 
 function App() {
   return (
     <AppContainer>
-      <Routes/>
+      <Routes />
+      <ToastContainer autoClose={3000}/>
     </AppContainer>
   );
 }
