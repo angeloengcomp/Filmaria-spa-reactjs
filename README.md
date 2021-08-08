@@ -12,7 +12,7 @@
 </h1>
 
 <h1 align="center">
-    <img alt="filmaria" src=".github/movie.png" />
+    <img alt="filmaria" src=".github/movie.webm" />
 </h1>
 
 <br>
