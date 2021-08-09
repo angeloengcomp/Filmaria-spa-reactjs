@@ -11,9 +11,9 @@
     <img alt="filmaria" src=".github/banner.png" />
 </h1>
 
-<h1 align="center">
-    <img alt="filmaria" src=".github/movie.webm" />
-</h1>
+
+
+https://user-images.githubusercontent.com/50966170/128649522-aba6ac3e-813b-4330-9f89-438f59e83118.mp4
 
 <br>
 
@@ -25,10 +25,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Styled-Components
 - JavaScript
 - React-Toastify
+- Axios
 
 ## 💻 Projeto
 
-Alurakit é uma reimaginação da antiga rede social Orkut, nesta aplicação utilizamos NextJS como framework de desenvolvimento, Styled-Componentes para estilização dos componentes e DATO CMS para gerencimanto e criação das comunidades.
+Filmaria foi um projeto desenvolvido no curso de ReactJS do básico ao avançado na prática, nesta aplicação utilizei Styled Components como principal forma de estilização, react-router-dom para criar um navegação dinâmica entre as páginas e utilizei o localStorage do navegador para armazenar informações sobre os filmes que o usuário escolheu como favorito.
 
 
 ## 🔖 Deploy
