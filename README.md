@@ -36,7 +36,7 @@ Filmaria foi um projeto desenvolvido no curso de ReactJS do básico ao avançado
 
 Você pode visualizar o projeto aovivo através do link abaixo:
 
-- [Website](https://filmariareact.netlify.app/) 
+- [Website](https://filmaria-angelo.netlify.app/) 
 
 
 ## 📝 License
