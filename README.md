@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Filmaria foi um projeto desenvolvido no curso de ReactJS do básico ao avançado na prática, nesta aplicação utilizei Styled Components como principal forma de estilização, react-router-dom para criar um navegação dinâmica entre as páginas e utilizei o localStorage do navegador para armazenar informações sobre os filmes que o usuário escolheu como favorito.
+Filmaria foi um projeto desenvolvido no curso de ReactJS do básico ao avançado na prática, nesta aplicação utilizei Styled Components como principal forma de estilização, react-router-dom para criar um navegação dinâmica entre as páginas e utilizei o localStorage do navegador para armazenar informações sobre os filmes que o usuário escolheu como favorito!
 
 
 ## 🔖 Deploy
